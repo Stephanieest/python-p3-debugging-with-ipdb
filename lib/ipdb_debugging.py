@@ -3,5 +3,7 @@
 import ipdb
 
 def plus_two(num):
-    num + 2
-    return num
+    return num + 2
+result = plus_two(1)
+print(result)
+ 
